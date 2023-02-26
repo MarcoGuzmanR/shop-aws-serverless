@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Magnificient Telescope - Pro Level",
+        "id": "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
+        "price": 240,
+        "title": "Pro Telescope"
+    },
+    {
+        "description": "Magnificient Telescope - Mid Level",
+        "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
+        "price": 180,
+        "title": "Telescope"
+    },
+    {
+        "description": "Magnificient Telescope - Basic Level",
+        "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a3",
+        "price": 120,
+        "title": "Basic Telescope"
+    },
+    {
+        "description": "Lens replacements",
+        "id": "7567ec4b-b10c-48c5-9345-fc73348a80a1",
+        "price": 80,
+        "title": "Lens"
+    },
+    {
+        "description": "Best telescope support",
+        "id": "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
+        "price": 100,
+        "title": "Multi Support"
+    }
+]
